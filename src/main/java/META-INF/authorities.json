@@ -1,0 +1,23 @@
+[
+  {
+    "id": "84df2c88-d3ab-43ae-a278-4098f7ff72aa",
+    "name": "Public",
+    "application": {
+      "id": "2168e22a-5102-4192-9a9f-32efc8c9a6f3"
+    },
+    "_class": "app.entity.Securable"
+  },
+  {
+    "id": "4735253b-99c3-4f3f-891e-153d334d1c79",
+    "name": "Authenticated",
+    "application": {
+      "id": "2168e22a-5102-4192-9a9f-32efc8c9a6f3"
+    },
+    "_class": "app.entity.Securable"
+  },
+  {
+    "id": "fdce3bb0-59a5-11eb-95ba-0242ac110002",
+    "name": "Administrators",
+    "_class": "app.entity.Securable"
+  }
+]
